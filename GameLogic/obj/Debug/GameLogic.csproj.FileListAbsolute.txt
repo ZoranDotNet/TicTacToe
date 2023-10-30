@@ -1,0 +1,12 @@
+C:\Users\matov\source\repos\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\matov\source\repos\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\matov\source\repos\GameLogic\obj\Debug\GameLogic.csproj.AssemblyReference.cache
+C:\Users\matov\source\repos\GameLogic\obj\Debug\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\matov\source\repos\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\matov\source\repos\GameLogic\obj\Debug\GameLogic.pdb
+C:\Users\matov\source\repos\TicTacToe\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\matov\source\repos\TicTacToe\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\matov\source\repos\TicTacToe\GameLogic\obj\Debug\GameLogic.csproj.AssemblyReference.cache
+C:\Users\matov\source\repos\TicTacToe\GameLogic\obj\Debug\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\matov\source\repos\TicTacToe\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\matov\source\repos\TicTacToe\GameLogic\obj\Debug\GameLogic.pdb
